@@ -2,61 +2,69 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Joey+%F0%9F%91%8B;I+build+tools+for+the+FGC;TypeScript+%7C+React+%7C+Node)](https://git.io/typing-svg)
 
-**Developer building tools for the competitive Smash community**
-
 [![Website](https://img.shields.io/badge/joeyfarah.dev-00D9FF?style=flat-square&logo=firefox-browser&logoColor=white)](https://joeyfarah.dev)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/joey-farah?style=flat-square&color=00D9FF&logo=github)](https://github.com/joey-farah?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Joey-Farah?style=flat-square&color=00D9FF&logo=github)](https://github.com/Joey-Farah?tab=followers)
 
 </div>
 
 ---
 
-### About Me
+### 👋 About
 
-- 🎮 I build data tools and leaderboards for the **Super Smash Bros. Melee** community
-- ⚡ Working on ranked stats and competitive infrastructure for the Slippi ecosystem
-- 🌐 [joeyfarah.dev](https://joeyfarah.dev)
-
----
-
-### Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 💼 Software engineer by day — more at [joeyfarah.dev](https://joeyfarah.dev)
+- 🚀 Currently shipping **Maps Agency** — an autonomous agent pipeline that finds local businesses with sleepy websites and pitches them custom mockups
+- 🎮 Also building data tools for the **Slippi** / Melee scene
 
 ---
 
-### Stats
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+[![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs)](https://skillicons.dev)
+
+**Tools & Infra**
+
+[![Skills](https://skillicons.dev/icons?i=tailwind,vercel,cloudflare,githubactions,git)](https://skillicons.dev)
+
+[![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
+
+---
+
+### 📊 Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joey-farah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joey-farah&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joey-Farah&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joey-farah&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joey-farah&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 </p>
 
 ---
 
-### Featured Projects
+### 🎮 FGC Tools
 
-<p align="center">
-  <a href="https://github.com/joey-farah/Slippi-Ranked-Stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joey-farah&repo=Slippi-Ranked-Stats&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/joey-farah/mn-slippi-leaderboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joey-farah&repo=mn-slippi-leaderboard&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/joey-farah/joeyfarah.dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joey-farah&repo=joeyfarah.dev&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<a href="https://github.com/Joey-Farah/Slippi-Ranked-Stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joey-Farah&repo=Slippi-Ranked-Stats&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Joey-Farah/mn-slippi-leaderboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joey-Farah&repo=mn-slippi-leaderboard&theme=tokyonight&hide_border=true" />
+</a>
+
+### 🤖 AI / Agents
+
+> **Maps Agency** *(private — shipping soon)*
+> Autonomous agent pipeline that finds local businesses with sleepy websites and pitches them custom mockups.
+
+### 🗄️ Infra & Tools
+
+> **Oracle Cloud Database Mapper** *(private)*
+> Interactive ERD tool that maps Oracle Cloud ERP database schemas with scroll-driven node/edge animations.
+
+### 🌐 Web
+
+<a href="https://github.com/Joey-Farah/joeyfarah.dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joey-Farah&repo=joeyfarah.dev&theme=tokyonight&hide_border=true" />
+</a>
