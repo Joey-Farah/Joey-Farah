@@ -20,6 +20,10 @@
   <sub>→ Browse the full project showcase at <a href="https://joeyfarah.dev">joeyfarah.dev</a></sub>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Joey-Farah/Joey-Farah/output/github-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -40,9 +44,5 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Joey-Farah&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Joey-Farah/Joey-Farah/output/github-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
