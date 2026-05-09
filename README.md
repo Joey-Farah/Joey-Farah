@@ -10,6 +10,18 @@
 
 ---
 
+<p align="center">
+  <a href="https://joeyfarah.dev">
+    <img src="https://joeyfarah.dev/og-v2.png" alt="joeyfarah.dev — visual resume showcasing my work" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>→ Browse the full project showcase at <a href="https://joeyfarah.dev">joeyfarah.dev</a></sub>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
