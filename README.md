@@ -31,6 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/Joey-Farah/Joey-Farah/output/github-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
