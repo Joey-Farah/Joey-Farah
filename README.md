@@ -10,14 +10,6 @@
 
 ---
 
-### 👋 About
-
-- 💼 Software engineer by day — more at [joeyfarah.dev](https://joeyfarah.dev)
-- 🚀 Currently shipping **Maps Agency** — an autonomous agent pipeline that finds local businesses with sleepy websites and pitches them custom mockups
-- 🎮 Also building data tools for the **Slippi** / Melee scene
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
