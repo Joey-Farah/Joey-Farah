@@ -34,29 +34,3 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 </p>
 
----
-
-### 🎮 FGC Tools
-
-<a href="https://github.com/Joey-Farah/Slippi-Ranked-Stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joey-Farah&repo=Slippi-Ranked-Stats&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Joey-Farah/mn-slippi-leaderboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joey-Farah&repo=mn-slippi-leaderboard&theme=tokyonight&hide_border=true" />
-</a>
-
-### 🤖 AI / Agents
-
-> **Maps Agency** *(private — shipping soon)*
-> Autonomous agent pipeline that finds local businesses with sleepy websites and pitches them custom mockups.
-
-### 🗄️ Infra & Tools
-
-> **Oracle Cloud Database Mapper** *(private)*
-> Interactive ERD tool that maps Oracle Cloud ERP database schemas with scroll-driven node/edge animations.
-
-### 🌐 Web
-
-<a href="https://github.com/Joey-Farah/joeyfarah.dev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joey-Farah&repo=joeyfarah.dev&theme=tokyonight&hide_border=true" />
-</a>
